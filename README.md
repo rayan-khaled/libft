@@ -63,8 +63,3 @@ ft_lstadd_back, ft_lstdelone, ft_lstclear, ft_lstiter, ft_lstmap
 **Rayan Khaled**  
 [rayannkhaled@outlook.com] [rayan-khaled]
 
-
-**Mahdi Chihime**  
-📧 [chihimemahdi@gmail.com]  
-🏫 42 Student — Libft Project  
-🧱 Version: 16.4  
